@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Manjuparkavi 👋
 
-<!--
-**manjuparkavi03/manjuparkavi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E Computer Science Engineering — 2026 Graduate  
+💻 Currently learning Java + Data Structures & Algorithms  
+🌱 Aspiring Software Engineer | Open to MNC opportunities  
+📍 Tamil Nadu, India  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Java | OOP | Data Structures
+- SQL | MySQL
+- HTML | Git | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔹 Java DSA Practice — solving problems daily
+- 🔹 Student Management System — (coming soon)
+- 🔹 Library Management System — (coming soon)
+
+## 📫 Connect with me
+- LinkedIn: (paste your LinkedIn link here)
+- Email: (your Gmail here)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjuparkavi03&show_icons=true&theme=default)## Hi there 👋
+
+
