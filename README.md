@@ -16,9 +16,9 @@
 - 🔹 Library Management System — (coming soon)
 
 ## 📫 Connect with me
-- LinkedIn: (paste your LinkedIn link here)
-- Email: (your Gmail here)
+- LinkedIn: www.linkedin.com/in/manju-parkavi-450147281
+- Email: manjparkavi@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjuparkavi03&show_icons=true&theme=default)## Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjuparkavi03&show_icons=true&theme=default&hide_border=true)
 
 
