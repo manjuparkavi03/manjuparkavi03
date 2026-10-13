@@ -1,27 +1,23 @@
 # Hi, I'm Manjuparkavi 👋
 
-🎓 B.E Computer Science Engineering — 2026 Graduate  
-💻 Currently learning Java + Data Structures & Algorithms  
-🌱 Aspiring Software Engineer | Open to MNC opportunities  
-📍 Tamil Nadu, India  
+**Full Stack Developer** passionate about building clean, scalable, and secure web applications.
+
+* 🎓 B.E Computer Science Engineering (CGPA: 8.5) — 2026 Graduate
+* 💻 **Tech Stack:** React, Spring Boot, MySQL, Docker, Tailwind CSS, TypeScript
+* 🚀 **Portfolio:** [View My Live Portfolio](https://manjuparkavi03.github.io/portfolio/)
+* 📍 Chennai, Tamil Nadu, India
 
 ## 🛠️ Skills
-- Java | OOP | Data Structures
-- SQL | MySQL
-- HTML | Git | GitHub
+* **Frontend:** React.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
+* **Backend:** Java, Spring Boot, REST APIs, JWT Authentication
+* **Database & DevOps:** MySQL, Docker, Git, GitHub
 
-## 📂 Projects
-- 🔹 Java DSA Practice — solving problems daily
-- 🔹 Student Management System — (coming soon)
-- 🔹 Library Management System — (coming soon)
+## 📁 Featured Projects
+* 🎙️ **SPICK - Studio Booking Platform:** Full-stack app with React, Spring Boot, MySQL, Docker, JWT, and Razorpay.
+* 🛡️ **Smart SQL Injection Detection:** Web tool to flag potential SQL injection patterns using Python.
+* 🎬 **Hotstar Clone:** Responsive streaming UI using React and Tailwind CSS.
+* 📚 **Library Management System:** Core Java desktop application for library transactions.
 
 ## 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/manju-parkavi-450147281
-- Email: manjparkavi@gmail.com
-
-## 📈 GitHub Activity
-![Profile Views](https://komarev.com/ghpvc/?username=manjuparkavi03&color=blue&style=flat)
-
-Thanks for visiting my profile! Let's connect and grow together 🚀
-
-
+* **LinkedIn:** [linkedin.com/in/manjuparkavisaravanan](https://www.linkedin.com/in/manju-parkavi-450147281)
+* **Email:** manjparkavi@gmail.com
